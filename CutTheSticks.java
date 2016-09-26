@@ -4,9 +4,9 @@ public class CutTheSticks {
 
 	/**
 	 * Main Method: The idea is to first get the minimum element from the array and deduct it from each array element 
-	 * 				and updating the current array element. Doing this while keep checking for array size to be 0 
-	 * 				i.e. when after deducting the minimum, all the array elements are 0. We are not removing any 0 element from the array
-	 * 				instead ignoring the 0 elements.
+	 * 		and updating the current array element. Doing this while keep checking for array size to be 0 
+	 * 		i.e. when after deducting the minimum, all the array elements are 0. 
+	 *		We are not removing any 0 element from the array instead ignoring the 0 elements.
 	 * 				 
 	 * @param args
 	 */
